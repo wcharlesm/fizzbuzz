@@ -4,7 +4,7 @@ import './FizzBuzz.css'
 class FizzBuzz extends Component {
 
   generateList(size) {
-    var foo = [];
+    var foo = [1,2,3];
     return foo;
   }
 
